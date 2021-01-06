@@ -1,0 +1,117 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="beslangeslan.ga" resolutions="1x" timestamp="1609945867437">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3801068219" ref="index:specifikos:test:d.u.k:produktai"/>
+    <file name="index.css" crc="477116572" ref="index"/>
+    <file name="specifikos.css" crc="296862035" ref="specifikos"/>
+    <file name="test.css" crc="3930326321" ref="test"/>
+    <file name="d_u_k.css" crc="3798580677" ref="d.u.k"/>
+    <file name="produktai.css" crc="470567737" ref="produktai"/>
+  </folder>
+  <folder name="fonts">
+    <file name="subset-productsans-italic.woff" crc="3884587929"/>
+    <file name="subset-productsans-italic.eot" crc="55849160"/>
+    <file name="subset-productsans-italic.svg" crc="4067713629"/>
+    <file name="subset-renogaresoft-regular.woff" crc="461145554"/>
+    <file name="subset-renogaresoft-regular.eot" crc="360741068"/>
+    <file name="subset-renogaresoft-regular.svg" crc="313558706"/>
+    <file name="subset-productsans-regular.woff" crc="3773962203"/>
+    <file name="subset-productsans-regular.eot" crc="4115120744"/>
+    <file name="subset-productsans-regular.svg" crc="15122941"/>
+    <file name="subset-productsans-bold.woff" crc="200116784"/>
+    <file name="subset-productsans-bold.eot" crc="203104350"/>
+    <file name="subset-productsans-bold.svg" crc="3972853911"/>
+    <file name="subset-productsans-bolditalic.woff" crc="168062029"/>
+    <file name="subset-productsans-bolditalic.eot" crc="4005418750"/>
+    <file name="subset-productsans-bolditalic.svg" crc="4260557389"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="d.u.k:index:produktai:specifikos:test"/>
+    <file name="museutils.js" crc="3939489907" ref="d.u.k:index:produktai:specifikos:test"/>
+    <file name="whatinput.js" crc="86476730" ref="d.u.k:index:produktai:specifikos:test"/>
+    <file name="museconfig.js" crc="3936894949" ref="d.u.k:index:produktai:specifikos:test"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="d.u.k:index:produktai:specifikos:test"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="d.u.k:index:produktai:specifikos"/>
+    <file name="jquery.watch.js" crc="522499760" ref="d.u.k:index:produktai:specifikos:test"/>
+    <file name="webpro.js" crc="3856315280" ref="d.u.k:index:produktai:specifikos:test"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="d.u.k:index:produktai:specifikos:test"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="d.u.k:index:produktai:specifikos:test"/>
+    <file name="touchswipe.js" crc="3888935200" ref="d.u.k:index:produktai:specifikos:test"/>
+    <file name="html5shiv.js" crc="4241844378" ref="d.u.k:index:produktai:specifikos:test"/>
+    <file name="require.js" crc="4177726516" ref="d.u.k:index:produktai:specifikos:test"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="test"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4002952849" ref="d.u.k"/>
+    <file name="blank.gif" crc="4208392903" ref="d.u.k:index:produktai:specifikos:test"/>
+    <file name="new mayb.jpg" crc="219969152" seo="true" ref="d.u.k:index:produktai:specifikos:test">
+      <caption webpage="d.u.k" alt=""/>
+      <caption webpage="test" alt=""/>
+    </file>
+    <file name="11-u1850-fr.png" crc="400549448" ref="d.u.k:index:produktai:specifikos"/>
+    <file name="faq background.jpg" crc="226197372" ref="d.u.k">
+      <caption webpage="d.u.k" alt=""/>
+    </file>
+    <file name="faq text.png" crc="3966515141" ref="d.u.k">
+      <caption webpage="d.u.k" alt=""/>
+    </file>
+    <file name="979d963eeeeeeeee.jpg" crc="3925328429" ref="d.u.k:index:produktai:specifikos">
+      <caption webpage="d.u.k" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="produktai" alt=""/>
+      <caption webpage="specifikos" alt=""/>
+    </file>
+    <file name="pistol ocean.jpg" crc="3920562344" ref="index:produktai">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pistol text-img.png" crc="3763513453" ref="index:produktai">
+      <caption webpage="index" alt=""/>
+      <caption webpage="produktai" alt=""/>
+    </file>
+    <file name="pistol elite ocean.jpg" crc="378868404" ref="index:produktai">
+      <caption webpage="index" alt=""/>
+      <caption webpage="produktai" alt=""/>
+    </file>
+    <file name="pistol elite text-img.png" crc="182583369" ref="index:produktai">
+      <caption webpage="index" alt=""/>
+      <caption webpage="produktai" alt=""/>
+    </file>
+    <file name="laukai.jpg" crc="494994713" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="laukaiflip.jpg" crc="21243981" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brick wal.jpg" crc="252574892" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="landscape2.jpg" crc="3838701354" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="landscape1.jpg" crc="3859058977" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u45053-11.png" crc="68077032" ref="produktai"/>
+    <file name="specifications background.jpg" crc="361860189" ref="specifikos">
+      <caption webpage="specifikos" alt=""/>
+    </file>
+    <file name="specification text.png" crc="4026991753" ref="specifikos">
+      <caption webpage="specifikos" alt=""/>
+    </file>
+    <file name="download.jpg" crc="4227940848" seo="true" ref="test">
+      <caption webpage="test" alt=""/>
+    </file>
+    <file name="image-3.jpg" crc="3847655786" seo="true" ref="test">
+      <caption webpage="test" alt=""/>
+    </file>
+    <file name="vando.jpg" crc="4146026066" seo="true" ref="test">
+      <caption webpage="test" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="test"/>
+  </folder>
+  <file name="d.u.k.html" crc="4171194140" seo="true" mt="1609853399401" redirect="true"/>
+  <file name="index.html" crc="353740588" seo="true" mt="1609853399401" redirect="true"/>
+  <file name="produktai.html" crc="4189505039" seo="true" mt="1609853399401" redirect="true"/>
+  <file name="specifikos.html" crc="161082853" seo="true" mt="1609853399401" redirect="true"/>
+  <file name="test.html" crc="4157360204" seo="true" mt="1609853399401" redirect="true"/>
+</manifest>

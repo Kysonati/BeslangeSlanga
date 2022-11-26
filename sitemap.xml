@@ -2,47 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://beslangeslan.ga/index.html</loc>
-    <lastmod>2021-01-05</lastmod>
+    <lastmod>2021-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://beslangeslan.ga/produktai.html</loc>
-    <lastmod>2021-01-05</lastmod>
+    <lastmod>2021-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://beslangeslan.ga/d.u.k.html</loc>
-    <lastmod>2021-01-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://beslangeslan.ga/images/new%20mayb.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://beslangeslan.ga/specifikos.html</loc>
-    <lastmod>2021-01-05</lastmod>
+    <lastmod>2021-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://beslangeslan.ga/test.html</loc>
-    <lastmod>2021-01-05</lastmod>
+    <loc>http://beslangeslan.ga/specifikacijos.html</loc>
+    <lastmod>2021-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://beslangeslan.ga/images/new%20mayb.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://beslangeslan.ga/images/download.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://beslangeslan.ga/images/image-3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://beslangeslan.ga/images/vando.jpg</image:loc>
-    </image:image>
   </url>
 </urlset>
